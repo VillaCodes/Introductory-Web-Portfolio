@@ -3,20 +3,13 @@
   padding: 10px;
 }
 
-@font-face {
-    font-family: 'darker_grotesquesemibold';
-    src: url('darkergrotesque-semibold-webfont.woff2') format('woff2'),
-         url('darkergrotesque-semibold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
 
-}
 
 header{
   color: white;
   background-color: #086788;
   text-align: center;
-  font-family: 'darker_grotesquesemibold', Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: strong;
   font-size: 18px;
 }
